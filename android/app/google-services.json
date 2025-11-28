@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "741350704148",
+    "project_id": "floxpress-e468d",
+    "storage_bucket": "floxpress-e468d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741350704148:android:dce0210df5f267be82d301",
+        "android_client_info": {
+          "package_name": "comp.floexpres.bo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsQqgPrpZ3HR7xhlKf42nWRXikYTlo1G0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
